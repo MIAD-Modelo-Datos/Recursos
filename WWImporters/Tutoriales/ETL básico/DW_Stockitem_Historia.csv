@@ -1,0 +1,228 @@
+WWI_Stock_Item_ID,Stock_Item,Color,Selling_Package,Buying_Package,Brand,Size_val,Lead_Time_Days,Quantity_Per_Outer,Is_Chiller_Stock,Recommended_Retail_Price,_Version,Date_from,Date_to,Stock_Item_Key
+24,DBA joke mug - I will get you in order (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,51539607553
+38,Developer joke mug - inheritance is the OO way to become wealthy (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,51539607554
+46,Developer joke mug - a foo walks into a bar (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,51539607555
+83,"""The Gu"" red shirt XML tag t-shirt (White) XXL",White,Each,Carton,NULL,XXL,7,12,0,27,1,2020-11-28,2199-12-31,51539607556
+87,"""The Gu"" red shirt XML tag t-shirt (White) 6XL",White,Each,Carton,NULL,6XL,7,12,0,27,1,2020-11-28,2199-12-31,51539607557
+118,Dinosaur battery-powered slippers (Green) S,NULL,Each,Each,NULL,S,12,1,0,48,1,2020-11-28,2199-12-31,51539607558
+125,Ogre battery-powered slippers (Green) XL,NULL,Each,Each,NULL,XL,12,1,0,48,1,2020-11-28,2199-12-31,51539607559
+132,Furry gorilla with big eyes slippers (Black) L,Black,Each,Each,NULL,L,12,1,0,48,1,2020-11-28,2199-12-31,51539607560
+137,Animal with big feet slippers (Brown) XL,NULL,Each,Each,NULL,XL,12,1,0,48,1,2020-11-28,2199-12-31,51539607561
+173,32 mm Anti static bubble wrap (Blue) 50m,Blue,Each,Each,NULL,50m,14,10,0,157,1,2020-11-28,2199-12-31,51539607562
+176,Bubblewrap dispenser (Red) 1.5m,Red,Each,Each,NULL,1.5m,14,1,0,359,1,2020-11-28,2199-12-31,51539607563
+186,Shipping carton (Brown) 457x457x457mm,NULL,Each,Each,NULL,457x457x457mm,14,25,0,3,1,2020-11-28,2199-12-31,51539607564
+194,Black and orange glass with care despatch tape  48mmx100m,NULL,Each,Each,NULL,48mmx100m,14,24,0,6,1,2020-11-28,2199-12-31,51539607565
+21,DBA joke mug - you might be a DBA if (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,128849018881
+41,"Developer joke mug - (hip, hip, array) (Black)",Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,128849018882
+52,IT joke mug - keyboard not found … press F1 to continue (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,128849018883
+96,"""The Gu"" red shirt XML tag t-shirt (Black) XXL",Black,Each,Carton,NULL,XXL,7,12,0,27,1,2020-11-28,2199-12-31,128849018884
+97,"""The Gu"" red shirt XML tag t-shirt (Black) 3XL",Black,Each,Carton,NULL,3XL,7,12,0,27,1,2020-11-28,2199-12-31,128849018885
+112,Superhero action jacket (Blue) L,Blue,Each,Each,NULL,L,12,1,0,45,1,2020-11-28,2199-12-31,128849018886
+113,Superhero action jacket (Blue) XL,Blue,Each,Each,NULL,XL,12,1,0,45,1,2020-11-28,2199-12-31,128849018887
+127,Plush shark slippers (Gray) M,Steel Gray,Each,Each,NULL,M,12,1,0,48,1,2020-11-28,2199-12-31,128849018888
+144,Halloween zombie mask (Light Brown) L,Light Brown,Each,Carton,NULL,L,12,12,0,27,1,2020-11-28,2199-12-31,128849018889
+167,10 mm Anti static bubble wrap (Blue) 50m,Blue,Each,Each,NULL,50m,14,10,0,148,1,2020-11-28,2199-12-31,128849018890
+179,Shipping carton (Brown) 229x229x229mm,NULL,Each,Each,NULL,229x229x229mm,14,25,0,2,1,2020-11-28,2199-12-31,128849018891
+192,Black and orange fragile despatch tape 48mmx100m,NULL,Each,Each,NULL,48mmx100m,14,36,0,6,1,2020-11-28,2199-12-31,128849018892
+202,Red and white urgent  heavy despatch tape  48mmx100m,NULL,Each,Each,NULL,48mmx100m,14,24,0,6,1,2020-11-28,2199-12-31,128849018893
+211,Small 9mm replacement blades 9mm,NULL,Each,Each,NULL,9mm,14,10,0,6,1,2020-11-28,2199-12-31,128849018894
+213,Air cushion film 200mmx100mm 325m,NULL,Each,Each,NULL,325m,14,1,0,130,1,2020-11-28,2020-11-28,128849018895
+27,DBA joke mug - SELECT caffeine FROM mug (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,85899345921
+50,Developer joke mug - old C developers never die (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,85899345922
+55,IT joke mug - that behavior is by design (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,85899345923
+79,"""The Gu"" red shirt XML tag t-shirt (White) S",White,Each,Carton,NULL,S,7,12,0,27,1,2020-11-28,2199-12-31,85899345924
+84,"""The Gu"" red shirt XML tag t-shirt (White) 3XL",White,Each,Carton,NULL,3XL,7,12,0,27,1,2020-11-28,2199-12-31,85899345925
+94,"""The Gu"" red shirt XML tag t-shirt (Black) L",Black,Each,Carton,NULL,L,7,12,0,27,1,2020-11-28,2199-12-31,85899345926
+130,Furry gorilla with big eyes slippers (Black) S,Black,Each,Each,NULL,S,12,1,0,48,1,2020-11-28,2199-12-31,85899345927
+149,Halloween skull mask (Gray) XL,Steel Gray,Each,Carton,NULL,XL,12,12,0,27,1,2020-11-28,2199-12-31,85899345928
+158,10 mm Double sided bubble wrap 50m,NULL,Each,Each,NULL,50m,14,10,0,157,1,2020-11-28,2020-11-28,85899345929
+160,20 mm Double sided bubble wrap 20m,NULL,Each,Each,NULL,20m,14,10,0,49,1,2020-11-28,2020-11-28,85899345930
+196,Black and orange handle with care despatch tape  48mmx100m,NULL,Each,Each,NULL,48mmx100m,14,24,0,6,1,2020-11-28,2199-12-31,85899345931
+197,Black and orange this way up despatch tape 48mmx75m,NULL,Each,Each,NULL,48mmx75m,14,24,0,6,1,2020-11-28,2199-12-31,85899345932
+203,Tape dispenser (Black),NULL,Each,Each,NULL,NULL,20,10,0,48,1,2020-11-28,2199-12-31,85899345933
+209,Packing knife with metal insert blade (Yellow) 9mm,NULL,Each,Each,NULL,9mm,14,5,0,3,1,2020-11-28,2199-12-31,85899345934
+219,Void fill 400 L bag (White) 400L,NULL,Each,Each,NULL,400L,14,10,0,75,1,2020-11-28,2199-12-31,85899345935
+225,Chocolate sharks 250g,NULL,Bag,Carton,NULL,250g,3,24,1,12,1,2020-11-28,2199-12-31,85899345936
+9,USB food flash drive - banana,NULL,Each,Each,NULL,NULL,14,1,0,48,1,2020-11-28,2199-12-31,8589934593
+11,USB food flash drive - cookie,NULL,Each,Each,NULL,NULL,14,1,0,48,1,2020-11-28,2199-12-31,8589934594
+32,Developer joke mug - that's a hardware problem (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,8589934595
+49,Developer joke mug - this code was generated by a tool (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,8589934596
+59,RC toy sedan car with remote control (Red) 1/50 scale,Red,Each,Each,Northwind,1/50 scale,14,1,0,37,1,2020-11-28,2199-12-31,8589934597
+65,RC vintage American toy coupe with remote control (Black) 1/50 scale,Black,Each,Each,Northwind,1/50 scale,14,1,0,45,1,2020-11-28,2199-12-31,8589934598
+69,Ride on toy sedan car (Blue) 1/12 scale,Blue,Each,Each,Northwind,1/12 scale,14,1,0,344,1,2020-11-28,2199-12-31,8589934599
+76,"""The Gu"" red shirt XML tag t-shirt (White) 3XS",White,Each,Carton,NULL,3XS,7,12,0,27,1,2020-11-28,2199-12-31,8589934600
+95,"""The Gu"" red shirt XML tag t-shirt (Black) XL",Black,Each,Carton,NULL,XL,7,12,0,27,1,2020-11-28,2199-12-31,8589934601
+102,Alien officer hoodie (Black) XL,Black,Each,Each,NULL,XL,12,1,0,52,1,2020-11-28,2199-12-31,8589934602
+129,Plush shark slippers (Gray) XL,Steel Gray,Each,Each,NULL,XL,12,1,0,48,1,2020-11-28,2199-12-31,8589934603
+138,Furry animal socks (Pink) S,NULL,Pair,Packet,NULL,S,12,12,0,7,1,2020-11-28,2199-12-31,8589934604
+154,Medium sized bubblewrap roll 20m,NULL,Each,Each,NULL,20m,14,10,0,30,1,2020-11-28,2199-12-31,8589934605
+159,20 mm Double sided bubble wrap 10m,NULL,Each,Each,NULL,10m,14,10,0,27,1,2020-11-28,2020-11-28,8589934606
+175,Bubblewrap dispenser (Blue) 1.5m,Blue,Each,Each,NULL,1.5m,14,1,0,359,1,2020-11-28,2199-12-31,8589934607
+191,Black and orange fragile despatch tape 48mmx75m,NULL,Each,Each,NULL,48mmx75m,14,36,0,6,1,2020-11-28,2199-12-31,8589934608
+204,Tape dispenser (Red),NULL,Each,Each,NULL,NULL,20,10,0,48,1,2020-11-28,2199-12-31,8589934609
+7,USB food flash drive - pizza slice,NULL,Each,Each,NULL,NULL,14,1,0,48,1,2020-11-28,2199-12-31,94489280513
+47,Developer joke mug - a foo walks into a bar (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,94489280514
+51,Developer joke mug - old C developers never die (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,94489280515
+53,IT joke mug - keyboard not found … press F1 to continue (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,94489280516
+56,IT joke mug - hardware: part of the computer that can be kicked (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,94489280517
+71,Ride on toy sedan car (Yellow) 1/12 scale,Yellow,Each,Each,Northwind,1/12 scale,14,1,0,344,1,2020-11-28,2199-12-31,94489280518
+74,Ride on vintage American toy coupe (Black) 1/12 scale,Black,Each,Each,Northwind,1/12 scale,14,1,0,426,1,2020-11-28,2199-12-31,94489280519
+77,"""The Gu"" red shirt XML tag t-shirt (White) XXS",White,Each,Carton,NULL,XXS,7,12,0,27,1,2020-11-28,2199-12-31,94489280520
+85,"""The Gu"" red shirt XML tag t-shirt (White) 4XL",White,Each,Carton,NULL,4XL,7,12,0,27,1,2020-11-28,2199-12-31,94489280521
+86,"""The Gu"" red shirt XML tag t-shirt (White) 5XL",White,Each,Carton,NULL,5XL,7,12,0,27,1,2020-11-28,2199-12-31,94489280522
+103,Alien officer hoodie (Black) XXL,Black,Each,Each,NULL,XXL,12,1,0,52,1,2020-11-28,2199-12-31,94489280523
+105,Alien officer hoodie (Black) 4XL,Black,Each,Each,NULL,4XL,12,1,0,52,1,2020-11-28,2199-12-31,94489280524
+116,Superhero action jacket (Blue) 4XL,Blue,Each,Each,NULL,4XL,12,1,0,51,1,2020-11-28,2199-12-31,94489280525
+147,Halloween skull mask (Gray) M,Steel Gray,Each,Carton,NULL,M,12,12,0,27,1,2020-11-28,2199-12-31,94489280526
+148,Halloween skull mask (Gray) L,Steel Gray,Each,Carton,NULL,L,12,12,0,27,1,2020-11-28,2199-12-31,94489280527
+162,32 mm Double sided bubble wrap 10m,NULL,Each,Each,NULL,10m,14,10,0,33,1,2020-11-28,2020-11-28,94489280528
+220,Novelty chilli chocolates 250g,NULL,Bag,Carton,NULL,250g,3,24,1,12,1,2020-11-28,2199-12-31,94489280529
+28,DBA joke mug - two types of DBAs (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,1
+29,DBA joke mug - two types of DBAs (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,2
+30,Developer joke mug - Oct 31 = Dec 25 (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,3
+33,Developer joke mug - that's a hardware problem (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,4
+93,"""The Gu"" red shirt XML tag t-shirt (Black) M",Black,Each,Carton,NULL,M,7,12,0,27,1,2020-11-28,2199-12-31,5
+151,Pack of 12 action figures (male),NULL,Packet,Packet,NULL,NULL,2,1,0,24,1,2020-11-28,2199-12-31,6
+171,32 mm Anti static bubble wrap (Blue) 10m,Blue,Each,Each,NULL,10m,14,10,0,48,1,2020-11-28,2199-12-31,7
+200,Black and yellow heavy despatch tape 48mmx100m,NULL,Each,Each,NULL,48mmx100m,14,24,0,6,1,2020-11-28,2199-12-31,8
+208,Permanent marker red 5mm nib (Red) 5mm,NULL,Each,Each,NULL,5mm,14,12,0,4,1,2020-11-28,2199-12-31,9
+221,Novelty chilli chocolates 500g,NULL,Bag,Carton,NULL,500g,3,12,1,21,1,2020-11-28,2199-12-31,10
+224,Chocolate frogs 250g,NULL,Bag,Carton,NULL,250g,3,24,1,12,1,2020-11-28,2199-12-31,11
+22,DBA joke mug - it depends (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,77309411329
+36,Developer joke mug - when your hammer is C++ (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,77309411330
+40,"Developer joke mug - (hip, hip, array) (White)",White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,77309411331
+43,Developer joke mug - understanding recursion requires understanding recursion (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,77309411332
+66,RC big wheel monster truck with remote control (Black) 1/50 scale,Black,Each,Each,Northwind,1/50 scale,14,1,0,67,1,2020-11-28,2199-12-31,77309411333
+75,Ride on big wheel monster truck (Black) 1/12 scale,Black,Each,Each,Northwind,1/12 scale,14,1,0,516,1,2020-11-28,2199-12-31,77309411334
+90,"""The Gu"" red shirt XML tag t-shirt (Black) XXS",Black,Each,Carton,NULL,XXS,7,12,0,27,1,2020-11-28,2199-12-31,77309411335
+99,"""The Gu"" red shirt XML tag t-shirt (Black) 5XL",Black,Each,Carton,NULL,5XL,7,12,0,27,1,2020-11-28,2199-12-31,77309411336
+122,Ogre battery-powered slippers (Green) S,NULL,Each,Each,NULL,S,12,1,0,48,1,2020-11-28,2199-12-31,77309411337
+141,Furry animal socks (Pink) XL,NULL,Pair,Packet,NULL,XL,12,12,0,7,1,2020-11-28,2199-12-31,77309411338
+142,Halloween zombie mask (Light Brown) S,Light Brown,Each,Carton,NULL,S,12,12,0,27,1,2020-11-28,2199-12-31,77309411339
+168,20 mm Anti static bubble wrap (Blue) 10m,Blue,Each,Each,NULL,10m,14,10,0,43,1,2020-11-28,2199-12-31,77309411340
+174,Bubblewrap dispenser (Black) 1.5m,Black,Each,Each,NULL,1.5m,14,1,0,359,1,2020-11-28,2199-12-31,77309411341
+185,Shipping carton (Brown) 356x356x279mm,NULL,Each,Each,NULL,356x356x279mm,14,25,0,3,1,2020-11-28,2199-12-31,77309411342
+198,Black and orange this way up despatch tape  48mmx100m,NULL,Each,Each,NULL,48mmx100m,14,24,0,6,1,2020-11-28,2199-12-31,77309411343
+205,Tape dispenser (Blue),NULL,Each,Each,NULL,NULL,20,10,0,48,1,2020-11-28,2199-12-31,77309411344
+207,Permanent marker blue 5mm nib (Blue) 5mm,NULL,Each,Each,NULL,5mm,14,12,0,4,1,2020-11-28,2199-12-31,77309411345
+227,White chocolate moon rocks 250g,NULL,Bag,Carton,NULL,250g,3,24,1,12,1,2020-11-28,2199-12-31,77309411346
+13,USB food flash drive - shrimp cocktail,NULL,Each,Each,NULL,NULL,14,1,0,48,1,2020-11-28,2199-12-31,60129542145
+20,DBA joke mug - you might be a DBA if (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,60129542146
+39,Developer joke mug - inheritance is the OO way to become wealthy (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,60129542147
+58,RC toy sedan car with remote control (Black) 1/50 scale,Black,Each,Each,Northwind,1/50 scale,14,1,0,37,1,2020-11-28,2199-12-31,60129542148
+70,Ride on toy sedan car (Green) 1/12 scale,NULL,Each,Each,Northwind,1/12 scale,14,1,0,344,1,2020-11-28,2199-12-31,60129542149
+98,"""The Gu"" red shirt XML tag t-shirt (Black) 4XL",Black,Each,Carton,NULL,4XL,7,12,0,27,1,2020-11-28,2199-12-31,60129542150
+123,Ogre battery-powered slippers (Green) M,NULL,Each,Each,NULL,M,12,1,0,48,1,2020-11-28,2199-12-31,60129542151
+124,Ogre battery-powered slippers (Green) L,NULL,Each,Each,NULL,L,12,1,0,48,1,2020-11-28,2199-12-31,60129542152
+126,Plush shark slippers (Gray) S,Steel Gray,Each,Each,NULL,S,12,1,0,48,1,2020-11-28,2199-12-31,60129542153
+133,Furry gorilla with big eyes slippers (Black) XL,Black,Each,Each,NULL,XL,12,1,0,48,1,2020-11-28,2199-12-31,60129542154
+134,Animal with big feet slippers (Brown) S,NULL,Each,Each,NULL,S,12,1,0,48,1,2020-11-28,2199-12-31,60129542155
+135,Animal with big feet slippers (Brown) M,NULL,Each,Each,NULL,M,12,1,0,48,1,2020-11-28,2199-12-31,60129542156
+146,Halloween skull mask (Gray) S,Steel Gray,Each,Carton,NULL,S,12,12,0,27,1,2020-11-28,2199-12-31,60129542157
+155,Large sized bubblewrap roll 50m,NULL,Each,Each,NULL,50m,14,10,0,36,1,2020-11-28,2199-12-31,60129542158
+181,Shipping carton (Brown) 356x229x229mm,NULL,Each,Each,NULL,356x229x229mm,14,25,0,2,1,2020-11-28,2199-12-31,60129542159
+187,Express post box 5kg (White) 350x280x130mm,NULL,Each,Each,NULL,350x280x130mm,14,25,0,1,1,2020-11-28,2199-12-31,60129542160
+199,Black and yellow heavy despatch tape  48mmx75m,NULL,Each,Each,NULL,48mmx75m,14,24,0,6,1,2020-11-28,2199-12-31,60129542161
+1,USB missile launcher (Green),NULL,Each,Each,NULL,NULL,14,1,0,37,1,2020-11-28,2020-11-28,111669149697
+10,USB food flash drive - chocolate bar,NULL,Each,Each,NULL,NULL,14,1,0,48,1,2020-11-28,2020-11-28,111669149698
+37,Developer joke mug - when your hammer is C++ (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,111669149699
+68,Ride on toy sedan car (Red) 1/12 scale,Red,Each,Each,Northwind,1/12 scale,14,1,0,344,1,2020-11-28,2199-12-31,111669149700
+119,Dinosaur battery-powered slippers (Green) M,NULL,Each,Each,NULL,M,12,1,0,48,1,2020-11-28,2199-12-31,111669149701
+177,Shipping carton (Brown) 413x285x187mm,NULL,Each,Each,NULL,413x285x187mm,14,25,0,2,1,2020-11-28,2199-12-31,111669149702
+180,Shipping carton (Brown) 279x254x217mm,NULL,Each,Each,NULL,279x254x217mm,14,25,0,2,1,2020-11-28,2199-12-31,111669149703
+4,USB food flash drive - sushi roll,NULL,Each,Each,NULL,NULL,14,1,0,48,1,2020-11-28,2199-12-31,34359738369
+19,DBA joke mug - daaaaaa-ta (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,34359738370
+23,DBA joke mug - it depends (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,34359738371
+61,RC toy sedan car with remote control (Green) 1/50 scale,NULL,Each,Each,Northwind,1/50 scale,14,1,0,37,1,2020-11-28,2199-12-31,34359738372
+81,"""The Gu"" red shirt XML tag t-shirt (White) L",White,Each,Carton,NULL,L,7,12,0,27,1,2020-11-28,2199-12-31,34359738373
+117,Superhero action jacket (Blue) 5XL,Blue,Each,Each,NULL,5XL,12,1,0,51,1,2020-11-28,2199-12-31,34359738374
+163,32 mm Double sided bubble wrap 20m,NULL,Each,Each,NULL,20m,14,10,0,55,1,2020-11-28,2020-11-28,34359738375
+165,10 mm Anti static bubble wrap (Blue) 10m,Blue,Each,Each,NULL,10m,14,10,0,39,1,2020-11-28,2199-12-31,34359738376
+169,20 mm Anti static bubble wrap (Blue) 20m,Blue,Each,Each,NULL,20m,14,10,0,67,1,2020-11-28,2199-12-31,34359738377
+182,Shipping carton (Brown) 457x279x279mm,NULL,Each,Each,NULL,457x279x279mm,14,25,0,2,1,2020-11-28,2199-12-31,34359738378
+183,Shipping carton (Brown) 480x270x320mm,NULL,Each,Each,NULL,480x270x320mm,14,25,0,4,1,2020-11-28,2199-12-31,34359738379
+184,Shipping carton (Brown) 305x305x305mm,NULL,Each,Each,NULL,305x305x305mm,14,25,0,5,1,2020-11-28,2199-12-31,34359738380
+193,Black and orange glass with care despatch tape 48mmx75m,NULL,Each,Each,NULL,48mmx75m,14,24,0,6,1,2020-11-28,2199-12-31,34359738381
+3,Office cube periscope (Black),Black,Each,Carton,NULL,NULL,14,10,0,28,1,2020-11-28,2199-12-31,25769803777
+45,Developer joke mug - there are 10 types of people in the world (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,25769803778
+78,"""The Gu"" red shirt XML tag t-shirt (White) XS",White,Each,Carton,NULL,XS,7,12,0,27,1,2020-11-28,2199-12-31,25769803779
+106,Alien officer hoodie (Black) 5XL,Black,Each,Each,NULL,5XL,12,1,0,52,1,2020-11-28,2199-12-31,25769803780
+109,Superhero action jacket (Blue) XS,Blue,Each,Each,NULL,XS,12,1,0,37,1,2020-11-28,2199-12-31,25769803781
+111,Superhero action jacket (Blue) M,Blue,Each,Each,NULL,M,12,1,0,45,1,2020-11-28,2199-12-31,25769803782
+114,Superhero action jacket (Blue) XXL,Blue,Each,Each,NULL,XXL,12,1,0,45,1,2020-11-28,2199-12-31,25769803783
+131,Furry gorilla with big eyes slippers (Black) M,Black,Each,Each,NULL,M,12,1,0,48,1,2020-11-28,2199-12-31,25769803784
+143,Halloween zombie mask (Light Brown) M,Light Brown,Each,Carton,NULL,M,12,12,0,27,1,2020-11-28,2199-12-31,25769803785
+145,Halloween zombie mask (Light Brown) XL,Light Brown,Each,Carton,NULL,XL,12,12,0,27,1,2020-11-28,2199-12-31,25769803786
+212,Large  replacement blades 18mm,NULL,Each,Each,NULL,18mm,14,10,0,6,1,2020-11-28,2199-12-31,25769803787
+214,Air cushion film 200mmx200mm 325m,NULL,Each,Each,NULL,325m,14,1,0,135,1,2020-11-28,2199-12-31,25769803788
+5,USB food flash drive - hamburger,NULL,Each,Each,NULL,NULL,14,1,0,48,1,2020-11-28,2199-12-31,103079215105
+8,USB food flash drive - dim sum 10 drive variety pack,NULL,Packet,Packet,NULL,NULL,14,1,0,359,1,2020-11-28,2020-11-28,103079215106
+15,USB food flash drive - dessert 10 drive variety pack,NULL,Packet,Packet,NULL,NULL,14,1,0,359,1,2020-11-28,2199-12-31,103079215107
+25,DBA joke mug - I will get you in order (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,103079215108
+31,Developer joke mug - Oct 31 = Dec 25 (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,103079215109
+34,Developer joke mug - fun was unexpected at this time (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,103079215110
+54,IT joke mug - that behavior is by design (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,103079215111
+62,RC toy sedan car with remote control (Yellow) 1/50 scale,Yellow,Each,Each,Northwind,1/50 scale,14,1,0,37,1,2020-11-28,2199-12-31,103079215112
+92,"""The Gu"" red shirt XML tag t-shirt (Black) S",Black,Each,Carton,NULL,S,7,12,0,27,1,2020-11-28,2199-12-31,103079215113
+161,20 mm Double sided bubble wrap 50m,NULL,Each,Each,NULL,50m,14,10,0,161,1,2020-11-28,2020-11-28,103079215114
+166,10 mm Anti static bubble wrap (Blue) 20m,Blue,Each,Each,NULL,20m,14,10,0,63,1,2020-11-28,2199-12-31,103079215115
+178,Shipping carton (Brown) 500x310x310mm,NULL,Each,Each,NULL,500x310x310mm,14,25,0,4,1,2020-11-28,2199-12-31,103079215116
+206,Permanent marker black 5mm nib (Black) 5mm,NULL,Each,Each,NULL,5mm,14,12,0,4,1,2020-11-28,2199-12-31,103079215117
+216,Void fill 100 L bag (White) 100L,NULL,Each,Each,NULL,100L,14,10,0,19,1,2020-11-28,2020-11-28,103079215118
+223,Chocolate echidnas 250g,NULL,Bag,Carton,NULL,250g,3,24,1,12,1,2020-11-28,2199-12-31,103079215119
+14,USB food flash drive - fortune cookie,NULL,Each,Each,NULL,NULL,14,1,0,48,1,2020-11-28,2020-11-28,17179869185
+17,DBA joke mug - mind if I join you? (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,17179869186
+35,Developer joke mug - fun was unexpected at this time (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,17179869187
+63,RC toy sedan car with remote control (Pink) 1/50 scale,NULL,Each,Each,Northwind,1/50 scale,14,1,0,37,1,2020-11-28,2199-12-31,17179869188
+100,"""The Gu"" red shirt XML tag t-shirt (Black) 6XL",Black,Each,Carton,NULL,6XL,7,12,0,27,1,2020-11-28,2199-12-31,17179869189
+104,Alien officer hoodie (Black) 3XL,Black,Each,Each,NULL,3XL,12,1,0,52,1,2020-11-28,2199-12-31,17179869190
+128,Plush shark slippers (Gray) L,Steel Gray,Each,Each,NULL,L,12,1,0,48,1,2020-11-28,2199-12-31,17179869191
+170,20 mm Anti static bubble wrap (Blue) 50m,Blue,Each,Each,NULL,50m,14,10,0,152,1,2020-11-28,2199-12-31,17179869192
+172,32 mm Anti static bubble wrap (Blue) 20m,Blue,Each,Each,NULL,20m,14,10,0,72,1,2020-11-28,2199-12-31,17179869193
+222,Chocolate beetles 250g,NULL,Bag,Carton,NULL,250g,3,24,1,12,1,2020-11-28,2199-12-31,17179869194
+2,USB rocket launcher (Gray),Steel Gray,Each,Each,NULL,NULL,14,1,0,37,1,2020-11-28,2199-12-31,68719476737
+12,USB food flash drive - donut,NULL,Each,Each,NULL,NULL,14,1,0,48,1,2020-11-28,2020-11-28,68719476738
+26,DBA joke mug - SELECT caffeine FROM mug (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,68719476739
+42,Developer joke mug - understanding recursion requires understanding recursion (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,68719476740
+48,Developer joke mug - this code was generated by a tool (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,68719476741
+67,Ride on toy sedan car (Black) 1/12 scale,Black,Each,Each,Northwind,1/12 scale,14,1,0,344,1,2020-11-28,2199-12-31,68719476742
+73,Ride on vintage American toy coupe (Red) 1/12 scale,Red,Each,Each,Northwind,1/12 scale,14,1,0,426,1,2020-11-28,2199-12-31,68719476743
+88,"""The Gu"" red shirt XML tag t-shirt (White) 7XL",White,Each,Carton,NULL,7XL,7,12,0,27,1,2020-11-28,2199-12-31,68719476744
+91,"""The Gu"" red shirt XML tag t-shirt (Black) XS",Black,Each,Carton,NULL,XS,7,12,0,27,1,2020-11-28,2199-12-31,68719476745
+107,Superhero action jacket (Blue) 3XS,Blue,Each,Each,NULL,3XS,12,1,0,37,1,2020-11-28,2199-12-31,68719476746
+152,Pack of 12 action figures (female),NULL,Packet,Packet,NULL,NULL,2,1,0,24,1,2020-11-28,2199-12-31,68719476747
+156,10 mm Double sided bubble wrap 10m,NULL,Each,Each,NULL,10m,14,10,0,22,1,2020-11-28,2199-12-31,68719476748
+201,Red and white urgent despatch tape 48mmx75m,NULL,Each,Each,NULL,48mmx75m,14,24,0,6,1,2020-11-28,2199-12-31,68719476749
+210,Packing knife with metal insert blade (Yellow) 18mm,NULL,Each,Each,NULL,18mm,14,5,0,4,1,2020-11-28,2199-12-31,68719476750
+6,USB food flash drive - hot dog,NULL,Each,Each,NULL,NULL,14,1,0,48,1,2020-11-28,2020-11-28,42949672961
+80,"""The Gu"" red shirt XML tag t-shirt (White) M",White,Each,Carton,NULL,M,7,12,0,27,1,2020-11-28,2199-12-31,42949672962
+101,"""The Gu"" red shirt XML tag t-shirt (Black) 7XL",Black,Each,Carton,NULL,7XL,7,12,0,27,1,2020-11-28,2199-12-31,42949672963
+108,Superhero action jacket (Blue) XXS,Blue,Each,Each,NULL,XXS,12,1,0,37,1,2020-11-28,2199-12-31,42949672964
+110,Superhero action jacket (Blue) S,Blue,Each,Each,NULL,S,12,1,0,37,1,2020-11-28,2199-12-31,42949672965
+120,Dinosaur battery-powered slippers (Green) L,NULL,Each,Each,NULL,L,12,1,0,48,1,2020-11-28,2199-12-31,42949672966
+121,Dinosaur battery-powered slippers (Green) XL,NULL,Each,Each,NULL,XL,12,1,0,48,1,2020-11-28,2199-12-31,42949672967
+139,Furry animal socks (Pink) M,NULL,Pair,Packet,NULL,M,12,12,0,7,1,2020-11-28,2199-12-31,42949672968
+164,32 mm Double sided bubble wrap 50m,NULL,Each,Each,NULL,50m,14,10,0,167,1,2020-11-28,2020-11-28,42949672969
+190,Clear packaging tape 48mmx100m,NULL,Each,Each,NULL,48mmx100m,14,20,0,5,1,2020-11-28,2199-12-31,42949672970
+195,Black and orange handle with care despatch tape  48mmx75m,NULL,Each,Each,NULL,48mmx75m,14,24,0,6,1,2020-11-28,2199-12-31,42949672971
+218,Void fill 300 L bag (White) 300L,NULL,Each,Each,NULL,300L,14,10,0,56,1,2020-11-28,2199-12-31,42949672972
+16,DBA joke mug - mind if I join you? (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,120259084289
+18,DBA joke mug - daaaaaa-ta (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,120259084290
+44,Developer joke mug - there are 10 types of people in the world (White),White,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,120259084291
+57,IT joke mug - hardware: part of the computer that can be kicked (Black),Black,Each,Each,NULL,NULL,12,1,0,19,1,2020-11-28,2199-12-31,120259084292
+60,RC toy sedan car with remote control (Blue) 1/50 scale,Blue,Each,Each,Northwind,1/50 scale,14,1,0,37,1,2020-11-28,2199-12-31,120259084293
+64,RC vintage American toy coupe with remote control (Red) 1/50 scale,Red,Each,Each,Northwind,1/50 scale,14,1,0,45,1,2020-11-28,2199-12-31,120259084294
+72,Ride on toy sedan car (Pink) 1/12 scale,NULL,Each,Each,Northwind,1/12 scale,14,1,0,344,1,2020-11-28,2199-12-31,120259084295
+82,"""The Gu"" red shirt XML tag t-shirt (White) XL",White,Each,Carton,NULL,XL,7,12,0,27,1,2020-11-28,2199-12-31,120259084296
+89,"""The Gu"" red shirt XML tag t-shirt (Black) 3XS",Black,Each,Carton,NULL,3XS,7,12,0,27,1,2020-11-28,2199-12-31,120259084297
+115,Superhero action jacket (Blue) 3XL,Blue,Each,Each,NULL,3XL,12,1,0,51,1,2020-11-28,2199-12-31,120259084298
+136,Animal with big feet slippers (Brown) L,NULL,Each,Each,NULL,L,12,1,0,48,1,2020-11-28,2199-12-31,120259084299
+140,Furry animal socks (Pink) L,NULL,Pair,Packet,NULL,L,12,12,0,7,1,2020-11-28,2199-12-31,120259084300
+150,Pack of 12 action figures (variety),NULL,Packet,Packet,NULL,NULL,2,1,0,24,1,2020-11-28,2199-12-31,120259084301
+153,Small sized bubblewrap roll 10m,NULL,Each,Each,NULL,10m,14,10,0,7,1,2020-11-28,2199-12-31,120259084302
+157,10 mm Double sided bubble wrap 20m,NULL,Each,Each,NULL,20m,14,10,0,45,1,2020-11-28,2199-12-31,120259084303
+188,3 kg Courier post bag (White) 300x190x95mm,NULL,Each,Each,NULL,300x190x95mm,14,25,0,1,1,2020-11-28,2199-12-31,120259084304
+189,Clear packaging tape 48mmx75m,NULL,Each,Each,NULL,48mmx75m,14,26,0,4,1,2020-11-28,2199-12-31,120259084305
+215,Air cushion machine (Blue),NULL,Each,Each,NULL,NULL,20,1,0,2839,1,2020-11-28,2199-12-31,120259084306
+217,Void fill 200 L bag (White) 200L,NULL,Each,Each,NULL,200L,14,10,0,37,1,2020-11-28,2199-12-31,120259084307
+226,White chocolate snow balls 250g,NULL,Bag,Carton,NULL,250g,3,24,1,12,1,2020-11-28,2199-12-31,120259084308
