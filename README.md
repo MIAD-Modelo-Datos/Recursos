@@ -1,5 +1,5 @@
 # Recursos
-Recursos para el desarrollo de las actividades. Encontrara principalmente los archivos de datos y algunos archivos de configuraciones
+En este repositorio encontrará los recursos para el desarrollo de las actividades del curso. Se tienen principalmente los archivos de datos y algunos archivos de configuraciones.
 
 
 ## Instrucciones configuración ambiente local python
