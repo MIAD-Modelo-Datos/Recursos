@@ -1,0 +1,16 @@
+Los expertos de Infraestructura visible luego de revisar los comentarios que les enviamos reportados por ustedes en la tarea de perfilamiento revisaron y efectivamente nos confirman los siguientes problemas de calidad en los datos
+
+1.	Las fechas de construcción de aeropuertos no podían ser mayores a 2013
+2.	Había 79 aeropuertos duplicados, con fechas de construcción y vigencia diferentes
+3.	El número de vuelos de cada aeropuerto tenía valores demasiado grandes
+4.	Vuelos
+1.	Había 34.718 vuelos duplicados
+2.	16.946 duplicados con cambios en carga a bordo, carga ofrecida (eran el mismo vuelo pero con cargas distintas, lo cual no tenía sentido)
+3.	Había aproximadamente 1186 vuelos con origen y destino igual, no tiene sentido que un vuelo salga por ejemplo de Medellín y como destino tenga Medellín
+4.	Aproximadamente 51k de vuelos con valores nulos (nan) en las columnas trafico, vuelos, sillas y pasajeros, estos valores por columna equivalían a mínimo 1% y máximo 15% de los datos.
+
+A partir de estas conclusiones, Infraestructura visible revisó las fuentes de datos entregadas, encontró los errores y les entrega un nuevo conjunto de datos que aseguran ya no tiene estos problemas. Así mismo, expande las fechas de los datos a registros de aeropuertos y vuelos hasta 2016 para ubicarnos en el tiempo en diciembre de 2016, incluye una descripción de las fuentes compartidas y el proceso de generación de las fuentes de cobertura y matriz de distancia y espera entregar el diccionario de datos cobertura.
+
+Esta información estará publicada en el repositorio del curso: https://github.com/MIAD-Modelo-Datos/Recursos/Etapa 2
+
+Fecha de entrega de los datos: Lunes 15 de noviembre 8:00 a.m. hora Colombia
